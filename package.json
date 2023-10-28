@@ -1,6 +1,6 @@
 {
 	"name": "html2text-cli",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "cli.js",
 	"repository": "https://github.com/romw314/html2text-cli",
 	"author": "romw314",
