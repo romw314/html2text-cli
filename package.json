@@ -1,0 +1,22 @@
+{
+	"name": "html2text-cli",
+	"version": "0.0.1",
+	"main": "cli.js",
+	"repository": "https://github.com/romw314/html2text-cli",
+	"author": "romw314",
+	"license": "UNLICENSED",
+	"private": false,
+	"dependencies": {
+		"html-to-text": "^9.0.5"
+	},
+	"scripts": {
+		"build": "node build.js cli.js index.js",
+		"prepack": "node build.js cli.js index.js"
+	},
+	"bin": {
+		"html2text": "cli.js"
+	},
+	"devDependencies": {
+		"terser": "^5.22.0"
+	}
+}
