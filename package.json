@@ -4,7 +4,7 @@
 	"main": "cli.js",
 	"repository": "https://github.com/romw314/html2text-cli",
 	"author": "romw314",
-	"license": "UNLICENSED",
+	"license": "Unlicense",
 	"private": false,
 	"dependencies": {
 		"html-to-text": "^9.0.5"
